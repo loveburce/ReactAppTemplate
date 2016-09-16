@@ -1,0 +1,1 @@
+export const MAIN_ENTRY = 'MAIN_ENTRY';
